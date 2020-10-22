@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import pi,{doublePi, triplePi} from "./math.js";
+import pi, {doublePi, triplePi} from "./math.js";
 
 ReactDOM.render(
   <ul>
